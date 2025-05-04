@@ -150,14 +150,14 @@ body {
 
 .button-link {
 	display: inline-block;
-	max-width: auto;
     padding: 17px 35px;
-    flex-shrink: 0;
     border-radius: 40px;
     background: linear-gradient(90deg, #8176AF 0%, #C0B7E8 100%);
 	color: #343045;
     font-size: 12px;
     font-weight: 700;
+	text-align: center;
+	text-decoration: none;
 }
 
 /* ECO_bazar */ 
